@@ -8,8 +8,8 @@ This project analyzes FitBit smart device usage data to identify behavioral tren
 Analyze smart device usage data from FitBit users to identify behavioral trends in activity, sleep, and weight tracking, and apply those insights to inform Bellabeat's marketing strategy for the Leaf tracker.
 
 ## Tools Used
-- **BigQuery (SQL)** — Data cleaning and analysis
-- **Tableau Public** — Data visualization
+- **BigQuery (SQL):** Data cleaning and analysis
+- **Tableau Public:** Data visualization
 
 ## Dataset
 - Source: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
@@ -23,9 +23,9 @@ Analyze smart device usage data from FitBit users to identify behavioral trends 
 4. Users spend 39 extra minutes in bed before falling asleep
 
 ## Recommendations
-1. **Activity Reminders** — Send push notifications at 11AM and 5PM to encourage movement during peak activity windows
-2. **Sleep Coaching** — Add bedtime wind-down reminders to improve sleep quality
-3. **Sedentary Alerts** — Add hourly movement reminders to reduce sedentary behavior
+1. **Activity Reminders:** Send push notifications at 11AM and 5PM to encourage movement during peak activity windows
+2. **Sleep Coaching:** Add bedtime wind-down reminders to improve sleep quality
+3. **Sedentary Alerts:** Add hourly movement reminders to reduce sedentary behavior
 
 ## Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/daniel.eniola/viz/BellabeatFitBitDashboard/BellabeatFitBitAnalysis)
