@@ -138,10 +138,9 @@ FROM `bellabeat-analysis-489315.bellabeat_data.dailyactivity_merged`;
 -- ============================================
 
 -- Daily activity averages
--- Note: 'avg_colories' is a typo in original query, should be 'avg_calories'
 SELECT
   AVG(TotalSteps) AS avg_total_steps,
-  AVG(Calories) AS avg_colories,
+  AVG(Calories) AS avg_calories,
   AVG(VeryActiveMinutes) AS avg_active_minutes,
   AVG(SedentaryMinutes) AS avg_sedentary_minutes
 FROM `bellabeat-analysis-489315.bellabeat_data.dailyactivity_merged`;
